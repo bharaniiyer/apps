@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal.9.png",
+        "source": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_normal.9.png",
+        "source": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png",
+        "source": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png",
+        "source": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/res/merged/release/drawable-xhdpi-v4/notification_bg_low_pressed.9.png",
+        "source": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    }
+]

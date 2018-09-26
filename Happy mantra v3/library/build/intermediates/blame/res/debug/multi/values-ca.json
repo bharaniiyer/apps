@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Volumes/Seagate Backup Plus Drive/Flutter Dev tuto/AndroidSlidingUpPanel-master/library/build/intermediates/incremental/mergeDebugResources/merged.dir/values-ca/values-ca.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 100,
+                    "endOffset": 151
+                },
+                "from": {
+                    "file": "/Users/gokulkannan/.android/build-cache/c73a5bf3f4e1b43c78f89ffbbf417d69e11e17c8/output/res/values-ca/values-ca.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 100,
+                        "endOffset": 151
+                    }
+                }
+            }
+        ]
+    }
+]
